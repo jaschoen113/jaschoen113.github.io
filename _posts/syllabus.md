@@ -1,6 +1,5 @@
 ---
 layout: post
----
 title: 'University Writing - Data Sciences and Engineering'
 author: Jenna Schoen
 date: Fall 2016
